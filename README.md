@@ -21,3 +21,5 @@ This integration is essentially a newer version of the Control4 integration that
 This means, however, that this custom integration may not be as stable as the default integration, as the code has not gone through Home Assistant's review process and contains the newest, bleeding-edge features.
 
 This integration is not affiliated with or endorsed by Control4.
+
+intelibestluck@gmail.com
